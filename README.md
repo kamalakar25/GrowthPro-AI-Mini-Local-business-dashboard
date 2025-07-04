@@ -36,7 +36,7 @@ A beautiful, responsive dashboard application that simulates how small businesse
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd mini-business-dashboard
+cd GrowthPro-AI-Mini-Local-business-dashboard
 ```
 
 2. Install dependencies:

@@ -3,7 +3,7 @@ import BusinessForm from "./components/BusinessForm";
 import BusinessCard from "./components/BusinessCard";
 import { TrendingUp, Globe, Sparkles, BarChart3, Zap } from "lucide-react";
 
-const API_BASE_URL = "http://localhost:3001";
+const API_BASE_URL = "https://growthpro-ai-mini-local-business.onrender.com";
 
 function App() {
   const [businessData, setBusinessData] = useState(null);

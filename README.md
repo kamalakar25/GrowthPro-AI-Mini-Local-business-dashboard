@@ -126,17 +126,6 @@ Edit the `seoHeadlines` array in `server/index.js` to add more headline template
 ### Styling
 The project uses Tailwind CSS. You can customize the design by modifying the classes in the React components.
 
-## Deployment
-
-### Frontend (Netlify/Vercel)
-1. Build the project: `npm run build`
-
-
-### Backend (Render/Railway)
-1. Push your code to GitHub
-2. Connect your repository to your hosting platform
-3. Set the start command to `node server/index.js`
-
 ## Contributing
 
 1. Fork the repository
